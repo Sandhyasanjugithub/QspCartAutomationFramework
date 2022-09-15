@@ -8,4 +8,11 @@ public void addToCartTest()
 {
 	System.out.println("product added");
 }
+
+@Test
+public void removeFromCartTest()
+{
+	System.out.println("product removed");
 }
+}
+
